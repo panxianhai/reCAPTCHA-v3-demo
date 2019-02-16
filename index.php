@@ -27,6 +27,6 @@
     </script>
 </head>
 <body>
-    <button onclick="reCaptcha()">reCaptcha V3</button>
+    <button onclick="reCaptcha()">reCaptcha V3 - t</button>
 </body>
 </html>
